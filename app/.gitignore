@@ -1,0 +1,28 @@
+/build
+# Gradle / builds
+.gradle/
+build/
+*/build/
+
+# Android Studio
+*.iml
+.idea/caches
+.idea/libraries
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Local SDK / rutas
+local.properties
+
+# Firmas y secretos
+*.jks
+*.keystore
+key.properties
+*.pem
+*.p12
+*.pfx
+
+# Artefactos
+*.apk
+*.aab
